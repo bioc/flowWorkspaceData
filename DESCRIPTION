@@ -2,7 +2,7 @@ Package: flowWorkspaceData
 Type: Package
 Title: A data package containing two flowJo xml workspaces, associated fcs
        files and three GatingSets for testing the flowWorkspace and openCyto packages. 
-Version: 2.9.2
+Version: 2.10.0
 Date: 2011-03-31
 Author: Greg Finak
 Maintainer: Mike Jiang <wjiang2@fhcrc.org>
