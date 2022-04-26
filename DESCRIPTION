@@ -2,7 +2,7 @@ Package: flowWorkspaceData
 Type: Package
 Title: A data package containing two flowJo, one diva xml workspace and the associated fcs
        files as well as three GatingSets for testing the flowWorkspace, openCyto and CytoML packages. 
-Version: 3.7.0
+Version: 3.8.0
 Date: 2011-03-31
 Author: Greg Finak
 Maintainer: Mike Jiang <wjiang2@fhcrc.org>
